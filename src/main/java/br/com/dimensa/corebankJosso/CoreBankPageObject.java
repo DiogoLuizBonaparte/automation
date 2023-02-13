@@ -537,6 +537,7 @@ public class CoreBankPageObject {
         WebElement liqui = driver.findElement(By.name("frm:j_idt1001:j_idt1008"));
         liqui.sendKeys(Keys.TAB);
         Thread.sleep(2000);
+        //
 
 
       //  WebElement acordo = driver.findElement(By.name("frm:j_idt1001:j_idt1008"));
