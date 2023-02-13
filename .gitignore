@@ -1,0 +1,10 @@
+/.metadata/
+/.settings/
+/.project
+/.classpath
+/.settings/
+src/.idea/
+.recommenders/
+target/
+*/bin/
+*.orig
